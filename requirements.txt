@@ -1,3 +1,6 @@
+pipenv
 torch
 Pillow
 torchvision
+
+
