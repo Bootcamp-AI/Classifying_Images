@@ -10,8 +10,8 @@ resnet18 = models.resnet18()
 alexnet = models.alexnet()
 vgg16 = models.vgg16()
 
-#models = {'resnet': resnet18, 'alexnet': alexnet, 'vgg': vgg16}
-models = {'resnet': resnet18}
+models = {'resnet': resnet18, 'alexnet': alexnet, 'vgg': vgg16}
+
 
 
 # obtain ImageNet labels
